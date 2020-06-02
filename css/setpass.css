@@ -1,0 +1,86 @@
+        *{
+                margin:0;
+                padding:0;
+            }
+            body{
+                font-family:Arial;
+                
+				background-position: 0px 0px;
+				
+				
+            }
+            .title{
+                width:548px;
+                height:119px;
+                position:absolute;
+                top:400px;
+                left:150px;
+                background:transparent url(title.png) no-repeat top left;
+            }
+            a.back{
+                background:transparent url(back.png) no-repeat top left;
+                position:fixed;
+                width:150px;
+                height:27px;
+                outline:none;
+                bottom:0px;
+                left:0px;
+            }
+            #content{
+                margin:0 auto;
+            }
+div.ex
+{
+width:637px;
+height:412px;
+padding:0px;
+border:5px solid gray;
+margin-left:300px;
+}
+
+ body 
+{
+background-size:300px 300px;
+}
+
+
+
+h2   {color:blue;}
+p    {margin-left:50px;}
+input  {margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; 
+padding: 0px;
+ border-width: 1px;}
+ 
+ 
+ .min {
+  margin: 0 auto;
+  width: 650px;
+  padding-top: 23px;
+  padding-bottom: 100px;
+  }
+
+.cont {
+  padding: 0 44px;
+  }
+
+.clrsfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: '.';
+  clear: both;
+  height: 0;
+  }
+ 
+  .outers .sig-up {
+  width: 380px;
+  margin: 10px 0 0 650px;
+  }
+  .outers .sinup-box {
+  background: #f1f1f1;
+  width:320px;
+padding:20px;
+margin-top:-50px;
+box-shadow: 0px 1px 5px ;
+margin-left:-555px;
+  }
